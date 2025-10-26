@@ -1,2 +1,1 @@
-# Google AdSense（ID取得後に下の行の x を置き換えてコメント解除）
-# google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
+google.com, pub-6494792718518447, DIRECT, f08c47fec0942fa0
